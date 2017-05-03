@@ -1,0 +1,21 @@
+﻿Vulnerability;URL;Severity;Parameter;ParameterType
+"Internal Server Error";"";"Low";
+"Version Disclosure (ASP.NET)";"";"Low";
+"Insecure Frame (External)";"";"Low";
+"Missing Content-Type Header";"";"Low";
+"Insecure Transportation Security Protocol Supported (TLS 1.0)";"";"Low";
+"[Possible] Cross-site Request Forgery";"";"Low";
+"Mixed Content over HTTPS";"";"Low";
+"Forbidden Resource";"";"Information";
+"File Upload Functionality Detected";"";"Information";
+"ASP.NET Identified";"";"Information";
+"Email Address Disclosure";"";"Information";
+"Version Disclosure (IIS)";"";"Information";
+"HTTP Strict Transport Security (HSTS) Policy Not Enabled";"";"Information";
+"OPTIONS Method Enabled";"";"Information";
+"Autocomplete Enabled (Password Field)";"";"Information";
+"Out-of-date Version (jQuery)";"";"Information";
+"Missing X-XSS Protection Header";"";"Information";
+"SameSite Cookie Not Implemented";"";"Information";
+"Subresource Integrity (SRI) Not Implemented";"";"Information";
+"Content Security Policy (CSP) Not Implemented";"";"Information";
